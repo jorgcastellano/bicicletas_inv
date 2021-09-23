@@ -1,0 +1,2 @@
+src/* # para que se lleve el contenido de src, dejandome la carpeta src
+mysql/* # que se lleve todo el contenido de mysql excepto la misma carpeta
